@@ -1,4 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 body {
   display: flex;
   justify-content: center;
@@ -6,7 +14,7 @@ body {
   height: 100vh;
   background: #060505;
 }
-
+/* 
 .button {
   border: 2px solid #d2bdff;
   height: 80px;
@@ -178,4 +186,4 @@ P {
   text-align: center;
   font-size: 60px;
   margin-bottom: 50px;
-}
+} */

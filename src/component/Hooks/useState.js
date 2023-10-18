@@ -17,6 +17,7 @@ const UseState = () => {
     fontWeight: "bold",
     color: "#4CAF50", // Updated color
     textAlign: "center",
+    paddingBottom: "20px",
   };
 
   const buttonStyle = {
